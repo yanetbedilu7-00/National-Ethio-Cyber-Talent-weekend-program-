@@ -1,4 +1,3 @@
-INSA week 2
 1. Physical Layer
 
 Explanation: This is the layer that deals with the actual hardware and transmission media. It includes Wi-Fi, mobile networks (4G/5G), fiber optics, cables, and signals.
@@ -9,7 +8,6 @@ Attack Example:
 
 Device theft: Someone steals your phone and accesses Telegram.
 Signal jamming: Disrupting Wi-Fi or mobile data to stop message delivery.
-
 2. Data Link Layer
 
 Explanation: This layer converts data into frames and ensures reliable delivery over the physical medium. It also manages addressing via MAC addresses.
